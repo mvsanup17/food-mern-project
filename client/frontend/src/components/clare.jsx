@@ -17,7 +17,7 @@ function Clare() {
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="clare" className="img-fluid" /> */}
-                        <img src={`http://localhost:5000/details/file_1705227245190.jpg`} alt="clare" className="img-fluid" />
+                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705227245190.jpg`} alt="clare" className="img-fluid" />
                     </div>
                     <div className="col-lg-8">
                         <h2>Clare Smyth</h2>
