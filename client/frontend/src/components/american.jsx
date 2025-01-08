@@ -17,7 +17,7 @@ function American(){
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="american" className="img-fluid"/> */}
-                        <img src={`http://localhost:5000/details/file_1705229080353.jpeg`} alt="american" className="img-fluid"/>
+                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705229080353.jpeg`} alt="american" className="img-fluid"/>
                     </div>
                     <div className="col-lg-8">
                         <h2>Burger</h2>
