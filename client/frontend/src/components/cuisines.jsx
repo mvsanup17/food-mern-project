@@ -20,7 +20,7 @@ function Cuisines() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="cusinines" /> */}
-                            <img src={`http://localhost:5000/details/file_1705227477411.webp`} className="card-img-top" alt="cusinines" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705227477411.webp`} className="card-img-top" alt="cusinines" />
                             <div className="card-body">
                                 <h5 className="card-title">Indian</h5>
                                 <p className="card-text">
@@ -34,7 +34,7 @@ function Cuisines() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="cusinines" /> */}
-                            <img src={`http://localhost:5000/details/file_1705227576621.webp`} className="card-img-top" alt="cusinines" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705227576621.webp`} className="card-img-top" alt="cusinines" />
                             <div className="card-body">
                                 <h5 className="card-title">Chinese</h5>
                                 <p className="card-text">
@@ -48,7 +48,7 @@ function Cuisines() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="cusinines" /> */}
-                            <img src={`http://localhost:5000/details/file_1705227675913.jpg`} className="card-img-top" alt="cusinines" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705227675913.jpg`} className="card-img-top" alt="cusinines" />
                             <div className="card-body">
                                 <h5 className="card-title">Mexican</h5>
                                 <p className="card-text">
@@ -62,7 +62,7 @@ function Cuisines() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="cusinines" /> */}
-                            <img src={`http://localhost:5000/details/file_1705227760374.jpg`} className="card-img-top" alt="cusinines" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705227760374.jpg`} className="card-img-top" alt="cusinines" />
                             <div className="card-body">
                                 <h5 className="card-title">Italian</h5>
                                 <p className="card-text">
@@ -82,7 +82,7 @@ function Cuisines() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="cusinines" /> */}
-                            <img src={`http://localhost:5000/details/file_1705227862968.webp`} className="card-img-top" alt="cusinines" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705227862968.webp`} className="card-img-top" alt="cusinines" />
                             <div className="card-body">
                                 <h5 className="card-title">American</h5>
                                 <p className="card-text">
@@ -96,7 +96,7 @@ function Cuisines() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="cusinines" /> */}
-                            <img src={`http://localhost:5000/details/file_1705227931136.jpg`} className="card-img-top" alt="cusinines" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705227931136.jpg`} className="card-img-top" alt="cusinines" />
                             <div className="card-body">
                                 <h5 className="card-title">French</h5>
                                 <p className="card-text">
@@ -110,7 +110,7 @@ function Cuisines() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="cusinines" /> */}
-                            <img src={`http://localhost:5000/details/file_1705228013528.jpg`} className="card-img-top" alt="cusinines" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705228013528.jpg`} className="card-img-top" alt="cusinines" />
                             <div className="card-body">
                                 <h5 className="card-title">Spanish</h5>
                                 <p className="card-text">
@@ -124,7 +124,7 @@ function Cuisines() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="cusinines" /> */}
-                            <img src={`http://localhost:5000/details/file_1705228188626.jpg`} className="card-img-top" alt="cusinines" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705228188626.jpg`} className="card-img-top" alt="cusinines" />
                             <div className="card-body">
                                 <h5 className="card-title">Japanese</h5>
                                 <p className="card-text">
