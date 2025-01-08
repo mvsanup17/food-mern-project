@@ -17,7 +17,7 @@ function Sanjeev() {
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="sanjeev" className="img-fluid" /> */}
-                        <img src={`http://localhost:5000/details/file_1705230291346.avif`} alt="sanjeev" className="img-fluid" />
+                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705230291346.avif`} alt="sanjeev" className="img-fluid" />
                     </div>
                     <div className="col-lg-8">
                         <h2>Sanjeev Kapoor</h2>
