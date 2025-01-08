@@ -16,7 +16,7 @@ function Jamie(){
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="jamie" className="img-fluid" /> */}
-                        <img src={`http://localhost:5000/details/file_1705230509012.avif`} alt="jamie" className="img-fluid" />
+                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705230509012.avif`} alt="jamie" className="img-fluid" />
                     </div>
                     <div className="col-lg-8">
                         <h2>Jamie Oliver</h2>
