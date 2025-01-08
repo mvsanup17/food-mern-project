@@ -20,7 +20,7 @@ function Chefs() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="chefs" /> */}
-                            <img src={`http://localhost:5000/details/file_1705229617670.webp`} className="card-img-top" alt="chefs" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705229617670.webp`} className="card-img-top" alt="chefs" />
                             <div className="card-body">
                                 <h5 className="card-title">Sanjeev Kapoor</h5>
                                 <p className="card-text">
@@ -34,7 +34,7 @@ function Chefs() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="chefs" /> */}
-                            <img src={`http://localhost:5000/details/file_1705229691364.webp`} className="card-img-top" alt="chefs" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705229691364.webp`} className="card-img-top" alt="chefs" />
                             <div className="card-body">
                                 <h5 className="card-title">Vikas Khanna</h5>
                                 <p className="card-text">
@@ -48,7 +48,7 @@ function Chefs() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="chefs" /> */}
-                            <img src={`http://localhost:5000/details/file_1705229784927.webp`} className="card-img-top" alt="chefs" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705229784927.webp`} className="card-img-top" alt="chefs" />
                             <div className="card-body">
                                 <h5 className="card-title">Jamie Oliver</h5>
                                 <p className="card-text">
@@ -62,7 +62,7 @@ function Chefs() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="chefs"/> */}
-                            <img src={`http://localhost:5000/details/file_1705229852932.webp`} className="card-img-top" alt="chefs"/>
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705229852932.webp`} className="card-img-top" alt="chefs"/>
                             <div className="card-body">
                                 <h5 className="card-title">Gordon Ramsay</h5>
                                 <p className="card-text">
@@ -82,7 +82,7 @@ function Chefs() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="chefs" /> */}
-                            <img src={`http://localhost:5000/details/file_1705229924818.webp`} className="card-img-top" alt="chefs" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705229924818.webp`} className="card-img-top" alt="chefs" />
                             <div className="card-body">
                                 <h5 className="card-title">Pooja Dhingra</h5>
                                 <p className="card-text">
@@ -96,7 +96,7 @@ function Chefs() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="chefs" /> */}
-                            <img src={`http://localhost:5000/details/file_1705230015954.avif`} className="card-img-top" alt="chefs" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705230015954.avif`} className="card-img-top" alt="chefs" />
                             <div className="card-body">
                                 <h5 className="card-title">Ranveer Brar</h5>
                                 <p className="card-text">
@@ -110,7 +110,7 @@ function Chefs() {
                     <div className="col-lg">
                         <div className="card cards">
                             {/* <img src={imgs} className="card-img-top" alt="chefs" /> */}
-                            <img src={`http://localhost:5000/details/file_1705230110160.jpg`} className="card-img-top" alt="chefs" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705230110160.jpg`} className="card-img-top" alt="chefs" />
                             <div className="card-body">
                                 <h5 className="card-title">Yannick Alleno</h5>
                                 <p className="card-text">
@@ -123,7 +123,7 @@ function Chefs() {
 
                     <div className="col-lg">
                         <div className="card cards">
-                            <img src={`http://localhost:5000/details/file_1705230208761.webp`} className="card-img-top" alt="chefs" />
+                            <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705230208761.webp`} className="card-img-top" alt="chefs" />
                             <div className="card-body">
                                 <h5 className="card-title">Clare Smyth</h5>
                                 <p className="card-text">
