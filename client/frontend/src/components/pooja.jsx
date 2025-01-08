@@ -17,7 +17,7 @@ function Pooja() {
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="pooja" className="img-fluid" /> */}
-                        <img src={`http://localhost:5000/details/file_1705229924818.webp`} alt="pooja" className="img-fluid" />
+                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705229924818.webp`} alt="pooja" className="img-fluid" />
                     </div>
                     <div className="col-lg-8">
                         <h2>Pooja Dhingra</h2>
