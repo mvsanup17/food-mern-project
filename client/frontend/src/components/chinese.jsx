@@ -17,7 +17,7 @@ function Chinese() {
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="chinese" className="img-fluid"/> */}
-                        <img src={`http://localhost:5000/details/file_1705228392089.jpg`} alt="chinese" className="img-fluid"/>
+                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705228392089.jpg`} alt="chinese" className="img-fluid"/>
                     </div>
                     <div className="col-lg-8">
                         <h2>Kungpao Chicken</h2>
