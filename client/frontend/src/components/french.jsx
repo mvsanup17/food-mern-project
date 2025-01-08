@@ -17,7 +17,7 @@ function French(){
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="french" className="img-fluid"/> */}
-                        <img src={`http://localhost:5000/details/file_1705229159833.webp`} alt="french" className="img-fluid"/>
+                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705229159833.webp`} alt="french" className="img-fluid"/>
                     </div>
                     <div className="col-lg-8">
                         <h2>Crème Brûlée</h2>
