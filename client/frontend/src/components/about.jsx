@@ -16,7 +16,7 @@ const Reviewform = () => {
     const formSubmit =(e)=>{
         e.preventDefault();
         console.log(revForm)
-        axios.post("http://localhost:5000/addsubmit",{revForm})
+        axios.post("https://food-mern-project-cxzb.vercel.app/addsubmit",{revForm})
         .then((res)=>alert(res.data.msg))
         window.location.reload()
     }
