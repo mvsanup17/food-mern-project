@@ -17,7 +17,7 @@ function Italian(){
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="italian" className="img-fluid"/> */}
-                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705228905717.webp`} alt="italian" className="img-fluid"/>
+                        <img src={`https://food-mern-project-server.vercel.app/details/file_1705228905717.webp`} alt="italian" className="img-fluid"/>
                     </div>
                     <div className="col-lg-8">
                         <h2>Spaghetti and Meatballs</h2>
