@@ -17,7 +17,7 @@ function Japanese() {
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="japenese" className="img-fluid"/> */}
-                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705229361391.avif`} alt="japanese" className="img-fluid"/>
+                        <img src={`https://food-mern-project-server.vercel.app/details/file_1705229361391.avif`} alt="japanese" className="img-fluid"/>
                     </div>
                     <div className="col-lg-8">
                         <h2>Sushi Rolls</h2>
