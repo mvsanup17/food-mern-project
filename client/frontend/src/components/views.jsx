@@ -8,14 +8,14 @@ function Views(){
     const [review, setReview] = useState([]);
 
     useEffect(() => {
-        axios.get('https://food-mern-project-cxzb.vercel.app/getrev')
+        axios.get('https://food-mern-project-server.vercel.app/getrev')
             .then((data) => {
                 setReview(data.data.revdata);
             });
             console.log(review)
     }, []);
     const del = (id) =>{
-        axios.delete('https://food-mern-project-cxzb.vercel.app/deleterev/'+id)
+        axios.delete('https://food-mern-project-server.vercel.app/deleterev/'+id)
         .then(res=>{console.log(res)
             alert("Data Deleted Successfully")
             window.location.reload()
