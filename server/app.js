@@ -12,7 +12,7 @@ import UploadDetail from './models/uploads.js';
 const app = express();
 app.use(bodyParser.json());
 app.use(cors({
-  origin: ["http://localhost:3000"],
+  origin: ["https://food-mern-project-client.vercel.app/"],
   methods: ["POST","GET","PUT","DELETE"],
   credentials: true
 }));
