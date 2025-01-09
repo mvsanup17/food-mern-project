@@ -12,14 +12,14 @@ function UploadItems() {
     const uploadFiles = (e) =>{
         const formdata = new FormData()
         formdata.append('file',file)
-        axios.post("https://food-mern-project-cxzb.vercel.app/uploaddata",formdata)
+        axios.post("https://food-mern-project-server.vercel.app/uploaddata",formdata)
         .then(res => alert(res.data.msg))
         window.location.reload()
         .catch(err => console.log(err))
     }
 
     useEffect(() => {
-        axios.get("https://food-mern-project-cxzb.vercel.app/getimage")
+        axios.get("https://food-mern-project-server.vercel.app/getimage")
         .then(res => setImages(res.data[0].images))
         .catch(err => console.log(err))
     },[])
