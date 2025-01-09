@@ -17,7 +17,7 @@ function Ranveer() {
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="ranveer" className="img-fluid" /> */}
-                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705230710170.jpg`} alt="ranveer" className="img-fluid" />
+                        <img src={`https://food-mern-project-server.vercel.app/details/file_1705230710170.jpg`} alt="ranveer" className="img-fluid" />
                     </div>
                     <div className="col-lg-8">
                         <h2>Ranveer Brar</h2>
