@@ -17,7 +17,7 @@ function Mexican() {
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="mexican" className="img-fluid"/> */}
-                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705228560588.jpg`} alt="mexican" className="img-fluid"/>
+                        <img src={`https://food-mern-project-server.vercel.app/details/file_1705228560588.jpg`} alt="mexican" className="img-fluid"/>
                     </div>
                     <div className="col-lg-8">
                         <h2>Tacos</h2>
