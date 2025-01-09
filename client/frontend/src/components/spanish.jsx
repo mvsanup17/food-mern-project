@@ -17,7 +17,7 @@ function Spanish(){
                 <div className="row">
                     <div className="col-lg-4">
                         {/* <img src={imgs} alt="spanish" className="img-fluid"/> */}
-                        <img src={`https://food-mern-project-cxzb.vercel.app/details/file_1705229266205.jpg`} alt="spanish" className="img-fluid"/>
+                        <img src={`https://food-mern-project-server.vercel.app/details/file_1705229266205.jpg`} alt="spanish" className="img-fluid"/>
                     </div>
                     <div className="col-lg-8">
                         <h2>Paella</h2>
